@@ -19,7 +19,7 @@ require 'tramp/arel_monkey_patches'
 require 'active_model'
 
 module Tramp
-  VERSION = '0.1'
+  VERSION = '0.2'
 
   mattr_accessor :logger
 
